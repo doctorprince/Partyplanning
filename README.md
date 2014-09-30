@@ -1,25 +1,22 @@
 Partyplanning
 =============
 
-* Goal * 
+Goal
+* To use GitHub to work on party planning logistics together. Interested to compare changes in tables. 
 
-Use GitHub to work on party planning logistics together. 
 
-* Party Theme - Key Words * 
-1. 
-2. 
-3. 
-4.
-5. 
-
-* Bec's Questions / Need Help * 
-* 
+Party Theme
+* Bec, What are 5 key words to describe the experience you and Dave are looking for
 
 
 
 
 
-* Jane's Questions * 
+
+
+
+
+
 
 
 
